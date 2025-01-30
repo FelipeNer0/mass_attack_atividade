@@ -1,0 +1,15 @@
+# Dependências do Node
+node_modules/
+
+# Arquivo de banco de dados SQLite
+database.sqlite
+
+# Logs
+*.log
+
+# Arquivos de ambiente (se houver)
+.env
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
